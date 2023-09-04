@@ -42,6 +42,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 const outCode = script.generate();
 ```
 ni=猜猜在干啥
+jiubugaosuni hahahahahhaah
 ### Out
 
 ```javascript
