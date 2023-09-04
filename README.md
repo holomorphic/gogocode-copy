@@ -41,7 +41,7 @@ script.replace('const b = $_$', `const b = ${aValue}`);
 // generate ast to string
 const outCode = script.generate();
 ```
-
+ni=猜猜在干啥
 ### Out
 
 ```javascript
